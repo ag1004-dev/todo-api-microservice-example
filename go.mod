@@ -137,8 +137,7 @@ require (
 	goa.design/goa/v3 v3.10.2 // indirect
 	golang.org/x/crypto v0.18.0 // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sync v0.3.0 // indirect
+
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
